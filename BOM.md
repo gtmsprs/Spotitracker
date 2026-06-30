@@ -1,4 +1,0 @@
-Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
-"Brass M3 Heatset inserts","to hold all my componants together!",1,5.99,"https://www.amazon.com/Threaded-Inserts-Printing-Embedment-Automotive/dp/B0FDKYTMZ8/ref=sr_1_12?dib=eyJ2IjoiMSJ9.UtmegitzZLXDN9_hSPghbJYpsfYvAVKsTVeKq6FG6MT1eZ2N1BsfIcGTH4HK-pM1xc0WFwNNuTZjCQYuIO9FkBm3BbqRkL9-gmucXsscHPjp1ZOY7DOAf6DNRJTx1fYjYAzw_Q8ITKzkayJZ0teuNZQ6cW6zt8KkoUz579kSVa3-B1zrX6e3cmaffVwW0fblqM_cD7GDMepLHO8wNJs8vc-LO25vq12Egi-iHuFiZCDY6Xn4i1xR1EBxHrtUx2nqb9AtX1CYUDfOSymoBueClN8JRk2DUMTeCaV2YtqIW-c.mCox_Yi22KwidhbfE2Fwdm9mRj_t0Lo7JlPnXr0dtPs&dib_tag=se&keywords=Brass+M3+Heatset+inserts&qid=1782718124&s=hi&sr=1-12","Amazon"
-"ILI9341","It's a screen to see things",1,11.60,"https://www.amazon.com/Serial-Module-ILI9341-Driver-Touch/dp/B09MWJTNQK","Amazon"
-"LOLIN C3 mini","brains of my Spotitracker Display",1,4.00,"https://www.aliexpress.com/item/1005004740051202.html","Aliexpress"
