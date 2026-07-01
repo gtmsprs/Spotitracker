@@ -18,9 +18,6 @@ finally, I made the UI for me to actually use and play the music playlist that I
 
 ![image](https://stasis.hackclub-assets.com/images/1782442474572-k1vysq.png)
 
-![image](https://stasis.hackclub-assets.com/images/1782442257666-8g23ca.png)
-![image](https://stasis.hackclub-assets.com/images/1782442361914-q231he.png)
-![image](https://stasis.hackclub-assets.com/images/1782442474572-k1vysq.png)
 
 # 6/19/2026 10 PM - Fusion 360
 
@@ -34,5 +31,3 @@ However, 3 days after , I hop on Fusion 360 and lo and behold, I figured it out 
 
 ![image](https://stasis.hackclub-assets.com/images/1781908434687-mofhn5.png)
 
-![image](https://stasis.hackclub-assets.com/images/1782295788442-ktwrg4.png)
-![image](https://stasis.hackclub-assets.com/images/1781908434687-mofhn5.png)
